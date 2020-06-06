@@ -1,0 +1,15 @@
+c:\users\nafip\documents\visual studio 2015\Projects\SimpleScan\SimpleScan\bin\Debug\SimpleScan.exe.config
+c:\users\nafip\documents\visual studio 2015\Projects\SimpleScan\SimpleScan\bin\Debug\SimpleScan.exe
+c:\users\nafip\documents\visual studio 2015\Projects\SimpleScan\SimpleScan\bin\Debug\SimpleScan.pdb
+c:\users\nafip\documents\visual studio 2015\Projects\SimpleScan\SimpleScan\bin\Debug\MetroFramework.Design.dll
+c:\users\nafip\documents\visual studio 2015\Projects\SimpleScan\SimpleScan\bin\Debug\MetroFramework.dll
+c:\users\nafip\documents\visual studio 2015\Projects\SimpleScan\SimpleScan\bin\Debug\MetroFramework.Fonts.dll
+c:\users\nafip\documents\visual studio 2015\Projects\SimpleScan\SimpleScan\obj\Debug\SimpleScan.Properties.Resources.resources
+c:\users\nafip\documents\visual studio 2015\Projects\SimpleScan\SimpleScan\obj\Debug\SimpleScan.csproj.GenerateResource.Cache
+c:\users\nafip\documents\visual studio 2015\Projects\SimpleScan\SimpleScan\obj\Debug\SimpleScan.exe
+c:\users\nafip\documents\visual studio 2015\Projects\SimpleScan\SimpleScan\obj\Debug\SimpleScan.pdb
+c:\users\nafip\documents\visual studio 2015\Projects\SimpleScan\SimpleScan\obj\Debug\SimpleScan.Form1.resources
+c:\users\nafip\documents\visual studio 2015\Projects\SimpleScan\SimpleScan\bin\Debug\NTwain.dll
+c:\users\nafip\documents\visual studio 2015\Projects\SimpleScan\SimpleScan\bin\Debug\NTwain.pdb
+c:\users\nafip\documents\visual studio 2015\Projects\SimpleScan\SimpleScan\bin\Debug\NTwain.xml
+c:\Users\nafip\Documents\Visual Studio 2015\Projects\SimpleScan\SimpleScan\obj\Debug\SimpleScan.csprojResolveAssemblyReference.cache
